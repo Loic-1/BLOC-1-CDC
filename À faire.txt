@@ -1,0 +1,3 @@
+- Parler de la suppression logique ou physique
+
+- Parler de la version PHP utilisée (8.3.14)

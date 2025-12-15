@@ -14,3 +14,4 @@ Diagramme de relations entre l'utilisateur, l'app, l'api faite avec api-platform
 
 
 Parler de l'architecture MVC
+Intégrer une maquette en wireframe pour une des fonctionnalités

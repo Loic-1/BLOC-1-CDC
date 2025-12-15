@@ -11,3 +11,6 @@ Diagramme d'état-transition (activité de respiration)
 Diagramme de relations entre l'utilisateur, l'app, l'api faite avec api-platform
 
 * ….
+
+
+Parler de l'architecture MVC

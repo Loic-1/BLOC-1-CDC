@@ -4,7 +4,7 @@ Diagramme de cas d'utilisation par acteur (rôle) - fait
 
 Diagramme de classes
 
-Diagramme de séquence (création de compte)
+Diagramme de séquence (création de compte) - fait
 
 Diagramme d'état-transition (activité de respiration)
 
